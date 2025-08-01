@@ -7,7 +7,16 @@
       "description": "收集优秀的开源项目",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "be28d76b-08eb-4714-8928-cb7436306140",
+          "title": "桌面运维",
+          "icon": "Calendar",
+          "description": "桌面运维的一些工具",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
