@@ -892,6 +892,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754036384926",
+      "title": "内网穿透",
+      "icon": "FolderKanban",
+      "description": "收集国内一些免费的内网穿透网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
