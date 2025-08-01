@@ -171,7 +171,16 @@
       "icon": "FolderKanban",
       "description": "收集国内一些免费的内网穿透网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754036525352_8rqwnfmo8",
+          "title": "CHICKFRP",
+          "href": "https://www.chickfrp.com",
+          "description": "需实名，每月免费5G流量",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
