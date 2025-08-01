@@ -179,6 +179,14 @@
           "description": "需实名，每月免费5G流量",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754037619948_drvgv4xw9",
+          "title": "CHMLFRP",
+          "href": "https://panel.chmlfrp.cn/sign",
+          "description": "每天签到得积分，积分可以购买会员（速率），免费用户限4条隧道，国内限速8M/国外限速32M",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
