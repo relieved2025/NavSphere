@@ -38,7 +38,16 @@
           "icon": "LayoutGrid",
           "description": "HacK 工具集",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754035971246_vxej7z9k5",
+              "title": "综合攻击面管理平台",
+              "href": "https://github.com/Safe3/CVS",
+              "description": "森罗万象-强大的网络空间测绘、资产管理、漏洞扫描等全生命漏洞周期的综合攻击面管理平台，化繁为简，以一御百。",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
