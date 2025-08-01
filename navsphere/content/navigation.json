@@ -187,6 +187,14 @@
           "description": "每天签到得积分，积分可以购买会员（速率），免费用户限4条隧道，国内限速8M/国外限速32M",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754038558237_qlep525d2",
+          "title": "StellarFrp",
+          "href": "https://console.stellarfrp.top/login?redirect=/dashboard",
+          "description": "限速8M，隧道2条，需实名，每日签到送流量",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
