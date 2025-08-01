@@ -31,6 +31,14 @@
           "description": "网络及系统安全工具",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "665dc8fd-a493-4690-a04e-6fac2decd2db",
+          "title": "HacK 工具集",
+          "icon": "LayoutGrid",
+          "description": "HacK 工具集",
+          "enabled": true,
+          "items": []
         }
       ]
     },
