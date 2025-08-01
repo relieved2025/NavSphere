@@ -23,6 +23,14 @@
           "description": "系统方面的一些工具",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "4a004e41-b2eb-4855-9a5a-94fd7419b5ce",
+          "title": "安全运维",
+          "icon": "Globe",
+          "description": "网络及系统安全工具",
+          "enabled": true,
+          "items": []
         }
       ]
     },
