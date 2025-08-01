@@ -15,6 +15,14 @@
           "description": "桌面运维的一些工具",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "72330c4d-0536-4cd4-b27e-69b94f73d3cd",
+          "title": "系统运维",
+          "icon": "Settings",
+          "description": "系统方面的一些工具",
+          "enabled": true,
+          "items": []
         }
       ]
     },
