@@ -1,65 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1754035477111",
-      "title": "开源项目",
-      "icon": "Folder",
-      "description": "收集优秀的开源项目",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "be28d76b-08eb-4714-8928-cb7436306140",
-          "title": "桌面运维",
-          "icon": "Calendar",
-          "description": "桌面运维的一些工具",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "72330c4d-0536-4cd4-b27e-69b94f73d3cd",
-          "title": "系统运维",
-          "icon": "Settings",
-          "description": "系统方面的一些工具",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "4a004e41-b2eb-4855-9a5a-94fd7419b5ce",
-          "title": "安全运维",
-          "icon": "Globe",
-          "description": "网络及系统安全工具",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "665dc8fd-a493-4690-a04e-6fac2decd2db",
-          "title": "HacK 工具集",
-          "icon": "LayoutGrid",
-          "description": "HacK 工具集",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1754035971246_vxej7z9k5",
-              "title": "综合攻击面管理平台",
-              "href": "https://github.com/Safe3/CVS",
-              "description": "森罗万象-强大的网络空间测绘、资产管理、漏洞扫描等全生命漏洞周期的综合攻击面管理平台，化繁为简，以一御百。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "site_1754036045039_vgapjkqjg",
-              "title": "内网资产收集",
-              "href": "https://github.com/INotGreen/SharpScan",
-              "description": "内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描",
-              "icon": "",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -140,6 +81,65 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1754035477111",
+      "title": "开源项目",
+      "icon": "Folder",
+      "description": "收集优秀的开源项目",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "be28d76b-08eb-4714-8928-cb7436306140",
+          "title": "桌面运维",
+          "icon": "Calendar",
+          "description": "桌面运维的一些工具",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "72330c4d-0536-4cd4-b27e-69b94f73d3cd",
+          "title": "系统运维",
+          "icon": "Settings",
+          "description": "系统方面的一些工具",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "4a004e41-b2eb-4855-9a5a-94fd7419b5ce",
+          "title": "安全运维",
+          "icon": "Globe",
+          "description": "网络及系统安全工具",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "665dc8fd-a493-4690-a04e-6fac2decd2db",
+          "title": "HacK 工具集",
+          "icon": "LayoutGrid",
+          "description": "HacK 工具集",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1754035971246_vxej7z9k5",
+              "title": "综合攻击面管理平台",
+              "href": "https://github.com/Safe3/CVS",
+              "description": "森罗万象-强大的网络空间测绘、资产管理、漏洞扫描等全生命漏洞周期的综合攻击面管理平台，化繁为简，以一御百。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "site_1754036045039_vgapjkqjg",
+              "title": "内网资产收集",
+              "href": "https://github.com/INotGreen/SharpScan",
+              "description": "内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描",
+              "icon": "",
+              "enabled": true
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "9",
