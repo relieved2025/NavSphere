@@ -144,6 +144,14 @@
               "description": "用于Web漏洞检测和红色团队的安全工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754036271289_gdregkzr9",
+              "title": "网络扫描工具",
+              "href": "https://github.com/qqliushiyu/ss0t-Scan/",
+              "description": "一个功能强大的多模块网络扫描工具集合，提供命令行和图形界面两种操作方式。本工具设计用于网络安全分析、网络拓扑探测和漏洞扫描等任务，采用模块化设计架构，使得功能扩展和维护变得简单高效。",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
