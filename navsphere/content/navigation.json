@@ -136,6 +136,14 @@
               "description": "内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754036225060_7o7jvzcqv",
+              "title": "Web漏洞检测",
+              "href": "https://github.com/JiuZero/z0scan",
+              "description": "用于Web漏洞检测和红色团队的安全工具",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
