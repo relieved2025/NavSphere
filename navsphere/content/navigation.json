@@ -46,6 +46,14 @@
               "description": "森罗万象-强大的网络空间测绘、资产管理、漏洞扫描等全生命漏洞周期的综合攻击面管理平台，化繁为简，以一御百。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754036045039_vgapjkqjg",
+              "title": "内网资产收集",
+              "href": "https://github.com/INotGreen/SharpScan",
+              "description": "内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
